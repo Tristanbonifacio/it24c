@@ -1,0 +1,28 @@
+[
+    {
+      "student_id": 20231051,
+      "student_name": "josh eviota",
+      "student_program": "BS-Information technology",
+      "student_enrolled_date": "2023-08-05"
+    },
+    {
+      "student_id": 20231053,
+      "student_name": "bosh dev",
+      "student_program": "BS-Information technology",
+      "student_enrolled_date": "2023-08-05"
+    },
+    {
+      "student_id": 202310511,
+      "student_name": "lyle subesa",
+      "student_program": "BS - Information Technology",
+      "student_enrolled_date": "2023-08-05"
+    },
+            
+    {
+        "student_id": 20231493,
+        "student_name": "Peter Ranario",
+        "student_program": "BS - Information Technology",
+        "student_enrolled_date": "2023-08-05"
+     
+    }
+]
