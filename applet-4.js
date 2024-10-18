@@ -1,3 +1,4 @@
+<title>Addedloger</title>
 class StudentList {
     
     constructor(dataUrl) {
